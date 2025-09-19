@@ -1,0 +1,26 @@
+{
+  "machine_guarding.pdf": {
+    "title": "Machine Guarding & Lockout/Tagout – OSHA 1910",
+    "url": "https://www.osha.gov/machine-guarding"
+  },
+  "chemical_handling.pdf": {
+    "title": "Chemical Handling & Spill Response",
+    "url": "https://www.osha.gov/hazardous-materials"
+  },
+  "fire_safety.pdf": {
+    "title": "Industrial Fire Prevention & Emergency Response",
+    "url": "https://www.osha.gov/fire-safety"
+  },
+  "electrical_safety.pdf": {
+    "title": "Electrical Hazard Control – NFPA 70E",
+    "url": "https://www.nfpa.org/70e"
+  },
+  "confined_space.pdf": {
+    "title": "Confined Space Entry Procedures",
+    "url": "https://www.osha.gov/confined-spaces"
+  },
+  "ppe_basics.pdf": {
+    "title": "Personal Protective Equipment (PPE) Basics",
+    "url": "https://www.osha.gov/personal-protective-equipment"
+  }
+}
