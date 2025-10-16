@@ -124,9 +124,3 @@ This project is licensed under the MIT License.
 
 ```
 
----
-
-If you want, I can also **create a `requirements.txt`** that matches all the exact working versions from your setup (`numpy`, `tensorflow`, `keras`, `sentence-transformers`, etc.), so anyone can run it without dependency errors.  
-
-Do you want me to do that next?
-```
